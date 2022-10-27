@@ -2,7 +2,7 @@
 
 ## Heuristic Evaluation
 ### 10 Usability Heuristics
-Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze La Historia Museum's [current website](https://www.lahistoriamuseum.org).
+Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze La Historia Museum's [current website](https://www.lahistoriamuseum.org).
 
 ### Severity Ratings
 Severity Ratings are used to identify the most vital problems of a design. These ratings help evaluate products in terms of their usability and design. Sevarity ratings for the La Historia Museum website will be measured on a scale of 0-3:
