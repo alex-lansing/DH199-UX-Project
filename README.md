@@ -30,6 +30,3 @@ Severity Ratings are used to identify the most vital problems of a design. These
 
 ### Summary of Findings
 The La Historia Museum website has noteable cosmetic problems. The most urgent edits needed include changes to the navigation menu. The current menu design is slightly inconsistent with other websites. Further, the menu does not properly display user's page location. Other edits are needed to improve the website layout and aesthetics. Help and documentation should also be added to make the site more accessible to a wider range of users.
-
-## Planning User Research
-The purpose of this user research is to understand the major pain points users might experience in La Historia's current website. Findings will help identify the changes and features needed to improve the site.
