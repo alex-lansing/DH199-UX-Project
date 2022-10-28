@@ -28,6 +28,8 @@ Severity Ratings are used to identify the most vital problems of a design. These
 | Help Users Recognize, Diagnose, and Recover From Errors | When user enters an invalid email in the Contact Us section, the site does not provide a clear error message. Only states "please correct the highlighted fields". | 1. Text edit needed in error message for invalid email. | Make error message more clear. (i.e. Please enter a valid email) |
 | Help and Documentation | Website lacks instructions that are accessible and understandable for users who need more help. | 2. Need further help and documentation. | Include help pop-ups or information icons that provide further details for users who need more assistance. |
 
+## Summary of Findings
+
 
 ## Planning User Research
 The purpose of this user research is to understand the major pain points users might experience in La Historia's current website. Findings will help identify the changes and features needed to improve the site.
