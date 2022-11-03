@@ -1,6 +1,39 @@
 # DH199 Directed Research in Digital Humanities
 
+## Introduction
+The Los Angeles area is home to many arts and culture organizations ranging in size, from the Getty Center to smaller, community-based non-profits like the Crenshaw Dairy Mart. One example is the La Historia Museum, a history nonprofit and community archive located in El Monte, California. This proposed HUE project is a collaboration with La Historia that will implement new features onto the current website to improve its usability, both from a visitor’s and staff’s perspective. This project centers on the following ideas:
+
+1. An organization’s digital presence—via websites and social media—affects how it interacts with the community (and how the community interacts with it).
+2. An organization’s website should engage the community it serves through intuitive design and accessibility.
+3. Keeping turnover in mind, a website should be easy to manage and update from the perspective of the staff.
+
+Given these ideas, the ultimate goal of the design is to add features to the website that allow visitors to interact with the archive, whether it be to donate archival materials to the digital collections or financial contributions. The target audience for this project would be community members in the El Monte area, who may range in age from middle/high school students to older residents. Since visitors may have varying familiarity with technology, accessibility is a central tenet of the proposed project. 
+
+
+## Planning User Research
+
+### Background
+The purpose of this user research is to understand how organizations engage with the community through their website and social media platforms. We want to identify features that support or prevent this engagement. Further, we want to learn what might improve the usability of La Historia's website from the perspective of both visitors and the staff.
+
+### Objectives
+- Understand how organizations engage with the community through their website.
+- Learn how the La Historia staff utilizes the website and what motivates them to. 
+- Identify the pain points users encounter during their process and improvements for these problems.
+
+### Participants
+Participants will include individuals ranging from early teens to seniors. They must have some interest in visiting museums. Participants do not need any particular level of expertise for this study.
+
+### Methodology
+- 
+
+### Interview Overview
+
+### Tasks: Purpose and Overview
+
+### Resources
+
 ## Heuristic Evaluation
+
 ### 10 Usability Heuristics
 Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze La Historia Museum's [current website](https://www.lahistoriamuseum.org).
 
