@@ -17,8 +17,8 @@ The purpose of this user research is to understand how organizations engage with
 
 ### Objectives
 - Understand how organizations engage with the community through their website.
-- Learn how the La Historia staff utilizes the website and what motivates them to. 
 - Identify the pain points users encounter during their process and improvements for these problems.
+- Learn how the La Historia visitors and staff utilize the website and what motivates them to. 
 
 ### Participants
 The target user includes individuals ranging from early teens to seniors. Thus for this study, we will test participants of different age groups. They must have some interest in visiting museums. Participants do not need any particular level of expertise for this study.
@@ -45,7 +45,7 @@ The user will recieve an introduction to the study purpose and preliminary infor
 |---|---|---|
 | 1. Navigate the Projects Pages | User must navigate to the "My First Car" Project and locate the form for submitting photos to the collection. Then user must go to the "Project" page for an overview of all three projects. | Observe user's efficiency/ease in navigating through the menu and identifying buttons. |
 | 2. Locate the page with contact information. | User must go through the menu under "About Us" to locate the "Contact Us" page. | Measure the clarity of the "Contact Us" page location. |
-| 3. Read Comments on La Historia Museum's latest event. | User must locate and visit the "Events" main page. Then they must navigate to the comment section of the latest event. |
+| 3. Read Comments on La Historia Museum's latest event. | User must locate and visit the "Events" main page. Then they must navigate to the comment section of the latest event. | Observe ease in which user can engage with the community. |
 
 
 ## Heuristic Evaluation
