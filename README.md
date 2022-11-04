@@ -1,15 +1,5 @@
 # DH199 Directed Research in Digital Humanities
 
-## Introduction
-The Los Angeles area is home to many arts and culture organizations ranging in size, from the Getty Center to smaller, community-based non-profits like the Crenshaw Dairy Mart. One example is the La Historia Museum, a history nonprofit and community archive located in El Monte, California. This proposed HUE project is a collaboration with La Historia that will implement new features onto the current website to improve its usability, both from a visitor’s and staff’s perspective. This project centers on the following ideas:
-
-1. An organization’s digital presence—via websites and social media—affects how it interacts with the community (and how the community interacts with it).
-2. An organization’s website should engage the community it serves through intuitive design and accessibility.
-3. Keeping turnover in mind, a website should be easy to manage and update from the perspective of the staff.
-
-Given these ideas, the ultimate goal of the design is to add features to the website that allow visitors to interact with the archive, whether it be to donate archival materials to the digital collections or financial contributions. The target audience for this project would be community members in the El Monte area, who may range in age from middle/high school students to older residents. Since visitors may have varying familiarity with technology, accessibility is a central tenet of the proposed project. 
-
-
 ## Planning User Research
 
 ### Background
