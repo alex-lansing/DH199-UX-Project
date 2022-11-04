@@ -43,7 +43,7 @@ The user will recieve an introduction to the study purpose and preliminary infor
 
 | Task | Description | Purpose |
 |---|---|---|
-| 1. Navigate the Projects Pages | User must navigate to the "My First Car" Project and locate the form for submitting photos to the collection. Then user must go to the "Project" page for an overview of all three projects. | Observe user's efficiency/ease in navigating through the menu and identifying buttons. |
+| 1. Navigate the Projects Pages | User must navigate to the "Project" page for an overview of all three projects. Then user must locate the "My First Car" Project and identify where to submit photos to the collection. | Observe user's efficiency/ease in navigating through the menu and identifying buttons. |
 | 2. Locate the page with contact information. | User must go through the menu under "About Us" to locate the "Contact Us" page. | Measure the clarity of the "Contact Us" page location. |
 | 3. Read Comments on La Historia Museum's latest event. | User must locate and visit the "Events" main page. Then they must navigate to the comment section of the latest event. | Observe ease in which user can engage with the community. |
 
