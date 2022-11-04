@@ -31,7 +31,7 @@ The user will recieve an introduction to the study purpose and preliminary infor
 
 
 ### Interview Link
-- [Usability Test Interview](https://forms.gle/aNnvVoU529DZVF3M8)
+- [UT Interview Guide](https://forms.gle/aNnvVoU529DZVF3M8)
 
 ### Tasks: Purpose and Overview
 
