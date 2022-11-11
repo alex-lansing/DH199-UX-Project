@@ -1,5 +1,28 @@
 # DH199 Directed Research in Digital Humanities
 
+## Competitor Analysis
+I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Strengths, Weaknesses, Opportunities, Threats) analysis of similar websites to identify what features will maximize the user experience of La Historia Museum's website. I analyzed BLAH, BLAH, and BLAH.
+
+### Los Angeles Contemporary Archive
+#### Strengths
+- Organized system of submitting to archive: users are able to enter information about Title, Authors, Edition, Keywords, Dates, etc. in their submission
+- Easy to navigate: menu is clear and users are able to view their location at any page in the website
+- Archive materials filter: users can organize/filter the material to view by date acquired, artist, title name, format, publisher, venue, collections, or item location
+#### Weaknesses
+- Website design lacks creativity/aesthetics
+- Reading Group page design is inconsistent with the rest of the website
+- Advanced Search does not filter Archive materials properly
+#### Opportunities
+- Expanisve archive welcomes users to browse and add their own materials
+- Calendar page could promote more upcoming events and present a more aesthetic experience
+- Advertise more the ability for users to make appointments to visit the archive
+#### Threats
+- Other nonprofit websites are more aesthetically appealing to users
+- Website might appear somewhat untrustworthy to users due to the lack of design
+- Subscription page inconsistent with other websites; discourages users to subscribe to the email list
+
+
+
 ## Planning User Research
 
 ### Background
