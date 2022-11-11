@@ -23,8 +23,10 @@ I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Streng
 
 ### Autry Museum of the American West
 #### Strengths
-
+- Consistent and coherent design throughout the website
+- Side menu provides efficient navigation and clear representation of user page location
 #### Weaknesses
+- 
 
 #### Opportunities
 
