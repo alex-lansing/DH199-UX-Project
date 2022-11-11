@@ -1,7 +1,7 @@
 # DH199 Directed Research in Digital Humanities
 
 ## Competitor Analysis
-I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Strengths, Weaknesses, Opportunities, Threats) analysis of similar websites to identify what features will maximize the user experience of La Historia Museum's website. I analyzed BLAH, BLAH, and BLAH.
+I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Strengths, Weaknesses, Opportunities, Threats) analysis of similar websites to identify what features will maximize the user experience of La Historia Museum's website. I analyzed the [Los Angeles Contemporary Archive](https://www.lacarchive.com) site and the [Autry Museum of the American West](https://theautry.org/) site.
 
 ### Los Angeles Contemporary Archive
 #### Strengths
@@ -21,6 +21,7 @@ I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Streng
 - Website might appear somewhat untrustworthy to users due to the lack of design
 - Subscription page inconsistent with other websites; discourages users to subscribe to the email list
 
+### Autry Museum of the American West
 
 
 ## Planning User Research
