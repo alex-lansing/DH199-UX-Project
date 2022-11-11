@@ -22,6 +22,13 @@ I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Streng
 - Subscription page inconsistent with other websites; discourages users to subscribe to the email list
 
 ### Autry Museum of the American West
+#### Strengths
+
+#### Weaknesses
+
+#### Opportunities
+
+#### Threats
 
 
 ## Planning User Research
