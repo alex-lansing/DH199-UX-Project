@@ -25,13 +25,16 @@ I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Streng
 #### Strengths
 - Consistent and coherent design throughout the website
 - Side menu provides efficient navigation and clear representation of user page location
+- Multiple ways to routes to important pages (i.e. donation page can be visited via the home page, side bar on every page, or through the menu)
 #### Weaknesses
-- 
-
+- Some hyperlinks in the top photo gallery don't lead to proper pages
+- Subscription sign up requires users to visit two separate pages
+- User has to click twice to visit menu subpages
 #### Opportunities
-
+- Upcoming Exhibitions are only visible towards the bottom of the Exhibitions page; could showcase upcoming exhibitions more for visitors
 #### Threats
-
+- Numerous pages available to users all with same design; might appear monotonous to users
+- Repetition of page designs makes pages not memorable
 
 ## Planning User Research
 
