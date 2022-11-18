@@ -32,7 +32,7 @@ The user will recieve an introduction to the study purpose and preliminary infor
 - Informed Consent Form
 - Background Questions
 - Pre-Test Questionnaire
-- Tasks (4)
+- Tasks (3)
 - Post-Test Questionnaire
 - SUS Questionnaire
 - Production Satisfaction Card
