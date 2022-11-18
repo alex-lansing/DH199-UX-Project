@@ -56,14 +56,6 @@ The purpose of this study is to evaluate the CTA placement and overall design of
 The Get Involved page and Events page are one of the top two pages that aim to engage the community. Data from this study will help better understand how successful this engagement is.
 
 ### Materials
-- Image of the "Volunteer" section at the top of the Get Involved page
-- Question 1: What action was the webpage asking you to take? 
-- Question 2: What else do you remember from the webpage? 
-- Image of the Comment Section under the first event on the Events page
-- Question 1: What was this webpage about?
-- Question 2: What else do you remember from the webpage?
-
-### Materials
 - [Maze Collaboration Link](https://app.maze.co/join?code=367bf3fa56a2a2573f9784b3dd8292c187e141dfda9937) FOR TEAM ONLY
 (will input official link when ready to test)
 
