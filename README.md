@@ -58,6 +58,7 @@ The Get Involved page and Events page are one of the top two pages that aim to e
 ### Materials
 - Image of the "Volunteer" section at the top of the Get Involved page
 - Image of the Comment Section under the first event on the Events page
+- 2 recall questions about each image
 - [Maze Collaboration Link](https://app.maze.co/join?code=367bf3fa56a2a2573f9784b3dd8292c187e141dfda9937) FOR TEAM ONLY
 (will input official link when ready to test)
 
