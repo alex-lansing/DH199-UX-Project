@@ -2,8 +2,6 @@
 
 ## Planning User Research
 
-### Introduction
-
 ### Research Question
 La Historia Museum aims to preserve the narratives of El Monte residents and engage with community members. How can we enhance these goals through an online experience that is usable, accessible, and representative of the organization?
 
