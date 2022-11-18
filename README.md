@@ -27,7 +27,7 @@ This is an moderated, remote usability test. I, the moderator, will connect with
 
 The user will recieve an introduction to the study purpose and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
 
-### Interview Overview
+### Materials
 - Introduction
 - Informed Consent Form
 - Background Questions
@@ -39,17 +39,35 @@ The user will recieve an introduction to the study purpose and preliminary infor
 - Demographic Questions
 
 
-### Interview Link
+### Material Links
 - [Usability Test Form](https://forms.gle/aNnvVoU529DZVF3M8)
 - [Usability Test PDF](https://drive.google.com/file/d/1Zg9gVdYglpyN_ii2-rcCkQfel1PIbcbe/view?usp=sharing)
 
-### Tasks: Purpose and Overview
+### Study Tasks: Purpose and Overview
 
 | Task | Description | Purpose |
 |---|---|---|
 | 1. Navigate the Projects Pages | User must navigate to the "Project" page for an overview of all three projects. Then user must locate the "My First Car" Project and identify where to submit photos to the collection. | Observe user's efficiency/ease in navigating through the menu and identifying buttons. |
 | 2. Locate the page with contact information. | User must go through the menu under "About Us" to locate the "Contact Us" page. | Measure the clarity of the "Contact Us" page location. |
 | 3. Read Comments on La Historia Museum's latest event. | User must locate and visit the "Events" main page. Then they must navigate to the comment section of the latest event. | Observe ease in which user can engage with the community. |
+
+
+### 5-Second Test
+The purpose of this study is to evaluate the CTA placement and overall design of pages on the La Historia Museum website. Participants will be shown the Get Involved page and the Comment section on the Events page. After viewing each for five seconds, participants will be asked two questions about what they can remember. 
+
+The Get Involved page and Events page are one of the top two pages that aim to engage the community. Data from this study will help better understand how successful this engagement is.
+
+### Materials
+- Image of the "Volunteer" section at the top of the Get Involved page
+- Question 1: What action was the webpage asking you to take? 
+- Question 2: What else do you remember from the webpage? 
+- Image of the Comment Section under the first event on the Events page
+- Question 1: What was this webpage about?
+- Question 2: What else do you remember from the webpage?
+
+### Material Links
+- [Maze Collaboration Link](https://app.maze.co/join?code=367bf3fa56a2a2573f9784b3dd8292c187e141dfda9937) FOR TEAM ONLY
+(will input official link when ready to test)
 
 
 ## Heuristic Evaluation
