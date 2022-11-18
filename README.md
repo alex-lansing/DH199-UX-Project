@@ -15,12 +15,11 @@ La Historia Museum aims to preserve the narratives of El Monte residents and eng
 
 
 ### Methodology
-The methodology of this study explores how we can (1) enhance community engagement and (2) improve the preservation of El Monte narratives through the museum website. We will aggregate quantitative and qualitative research aimed to identify improvements needed on the current site. 
+The methodology of this study explores how we can (1) enhance community engagement and (2) improve the preservation of El Monte narratives through the museum website. We will aggregate quantitative and qualitative research aimed to identify improvements needed on the current site. Research will consist of a Heuristic Evaluation, Usability Testing, and blah.
 
 The target user includes individuals ranging from early teens to seniors. Thus for this study, we will test participants of different age groups. They must have some interest in visiting museums. Participants do not need any particular level of expertise for this study. Participant set should include individuals with varying tech experience to take into consideration the broad range of target users. 
 
-The data from each test will be analyzed to understand how 
-
+The data from each test will be analyzed to identify improvements for the design of the user experience. The design solutions found from our research will be demonstrated in a prototype. 
 
 
 ### Usability Test
