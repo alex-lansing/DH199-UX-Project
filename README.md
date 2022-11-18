@@ -23,7 +23,7 @@ The data from each test will be analyzed to identify improvements for the design
 
 
 ### Usability Test
-This is an moderated, remote usability test. I, the moderator, will connect with the participant via Zoom to conduct the experiment. I will be using a Macbook Air laptop to present the survey, capture participant actions, and record participants' comments. The study will be recorded via Zoom. 
+This is a moderated, remote usability test. I, the moderator, will connect with the participant via Zoom to conduct the experiment. I will be using a Macbook Air laptop to present the survey, capture participant actions, and record participants' comments. The study will be recorded via Zoom. 
 
 The user will recieve an introduction to the study purpose and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
 
