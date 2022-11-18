@@ -1,55 +1,29 @@
 # DH199 Directed Research in Digital Humanities
 
-## Competitor Analysis
-I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Strengths, Weaknesses, Opportunities, Threats) analysis of similar websites to identify what features will maximize the user experience of La Historia Museum's website. I analyzed the [Los Angeles Contemporary Archive](https://www.lacarchive.com) site and the [Autry Museum of the American West](https://theautry.org/) site.
-
-### Los Angeles Contemporary Archive
-#### Strengths
-- Organized system of submitting to archive: users are able to enter information about Title, Authors, Edition, Keywords, Dates, etc. in their submission
-- Easy to navigate: menu is clear and users are able to view their location at any page in the website
-- Archive materials filter: users can organize/filter the material to view by date acquired, artist, title name, format, publisher, venue, collections, or item location
-#### Weaknesses
-- Website design lacks creativity/aesthetics
-- Reading Group page design is inconsistent with the rest of the website
-- Advanced Search does not filter Archive materials properly
-#### Opportunities
-- Expanisve archive welcomes users to browse and add their own materials
-- Calendar page could promote more upcoming events and present a more aesthetic experience
-- Advertise more the ability for users to make appointments to visit the archive
-#### Threats
-- Other nonprofit websites are more aesthetically appealing to users
-- Website might appear somewhat untrustworthy to users due to the lack of design
-- Subscription page inconsistent with other websites; discourages users to subscribe to the email list
-
-### Autry Museum of the American West
-#### Strengths
-- Consistent and coherent design throughout the website
-- Side menu provides efficient navigation and clear representation of user page location
-- Multiple ways to routes to important pages (i.e. donation page can be visited via the home page, side bar on every page, or through the menu)
-#### Weaknesses
-- Some hyperlinks in the top photo gallery don't lead to proper pages
-- Subscription sign up requires users to visit two separate pages
-- User has to click twice to visit menu subpages
-#### Opportunities
-- Upcoming Exhibitions are only visible towards the bottom of the Exhibitions page; could showcase upcoming exhibitions more for visitors
-#### Threats
-- Numerous pages available to users all with same design; might appear monotonous to users
-- Repetition of page designs makes pages not memorable
-
 ## Planning User Research
 
-### Background
-The purpose of this user research is to understand how organizations engage with the community through their website and social media platforms. We want to identify features that support or prevent this engagement. Further, we want to learn what might improve the usability of La Historia's website from the perspective of both visitors and the staff.
+### Introduction
+
+### Research Question
+La Historia Museum aims to preserve the narratives of El Monte residents and engage with community members. How can we enhance these goals through an online experience that is usable, accessible, and representative of the organization?
 
 ### Objectives
-- Understand how organizations engage with the community through their website.
-- Identify the pain points users encounter during their process and improvements for these problems.
-- Learn how the La Historia visitors and staff utilize the website and what motivates them to. 
+- Identify the reasons why and how often visitors and community members use the La Historia website.
+- Explore web-based features that visitors feel would enhance their interactions with the organization.
+- Discover any pain points in navigating the website (for visitors) and updating the website (for staff members), while being cognizant of accessibility and different familiarities with technology.
+- Contextualize the website and the La Historia Museum within its organizational and community histories to explore how to center El Monte’s identities (race, gender, ethnicity, ability, etc..) in our design.
 
-### Participants
-The target user includes individuals ranging from early teens to seniors. Thus for this study, we will test participants of different age groups. They must have some interest in visiting museums. Participants do not need any particular level of expertise for this study.
 
 ### Methodology
+The methodology of this study explores how we can (1) enhance community engagement and (2) improve the preservation of El Monte narratives through the museum website. We will aggregate quantitative and qualitative research aimed to identify improvements needed on the current site. 
+
+The target user includes individuals ranging from early teens to seniors. Thus for this study, we will test participants of different age groups. They must have some interest in visiting museums. Participants do not need any particular level of expertise for this study. Participant set should include individuals with varying tech experience to take into consideration the broad range of target users. 
+
+The data from each test will be analyzed to understand how 
+
+
+
+### Usability Test
 This is an moderated, remote usability test. I, the moderator, will connect with the participant via Zoom to conduct the experiment. I will be using a Macbook Air laptop to present the survey, capture participant actions, and record participants' comments. The study will be recorded via Zoom. 
 
 The user will recieve an introduction to the study purpose and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
@@ -109,3 +83,39 @@ Severity Ratings are used to identify the most vital problems of a design. These
 
 ### Summary of Findings
 The La Historia Museum website has notable cosmetic problems. The most urgent edits needed include changes to the navigation menu. The current menu design is slightly inconsistent with other websites. Further, the menu does not properly display user's page location. Other edits are needed to improve the website layout and aesthetics. Help and documentation should also be added to make the site more accessible to a wider range of users.
+
+## Competitor Analysis
+I conducted a [SWOT](https://www.kickassux.com/ux-library/swot-analysis) (Strengths, Weaknesses, Opportunities, Threats) analysis of similar websites to identify what features will maximize the user experience of La Historia Museum's website. I analyzed the [Los Angeles Contemporary Archive](https://www.lacarchive.com) site and the [Autry Museum of the American West](https://theautry.org/) site.
+
+### Los Angeles Contemporary Archive
+#### Strengths
+- Organized system of submitting to archive: users are able to enter information about Title, Authors, Edition, Keywords, Dates, etc. in their submission
+- Easy to navigate: menu is clear and users are able to view their location at any page in the website
+- Archive materials filter: users can organize/filter the material to view by date acquired, artist, title name, format, publisher, venue, collections, or item location
+#### Weaknesses
+- Website design lacks creativity/aesthetics
+- Reading Group page design is inconsistent with the rest of the website
+- Advanced Search does not filter Archive materials properly
+#### Opportunities
+- Expanisve archive welcomes users to browse and add their own materials
+- Calendar page could promote more upcoming events and present a more aesthetic experience
+- Advertise more the ability for users to make appointments to visit the archive
+#### Threats
+- Other nonprofit websites are more aesthetically appealing to users
+- Website might appear somewhat untrustworthy to users due to the lack of design
+- Subscription page inconsistent with other websites; discourages users to subscribe to the email list
+
+### Autry Museum of the American West
+#### Strengths
+- Consistent and coherent design throughout the website
+- Side menu provides efficient navigation and clear representation of user page location
+- Multiple ways to routes to important pages (i.e. donation page can be visited via the home page, side bar on every page, or through the menu)
+#### Weaknesses
+- Some hyperlinks in the top photo gallery don't lead to proper pages
+- Subscription sign up requires users to visit two separate pages
+- User has to click twice to visit menu subpages
+#### Opportunities
+- Upcoming Exhibitions are only visible towards the bottom of the Exhibitions page; could showcase upcoming exhibitions more for visitors
+#### Threats
+- Numerous pages available to users all with same design; might appear monotonous to users
+- Repetition of page designs makes pages not memorable
