@@ -40,7 +40,8 @@ The user will recieve an introduction to the study purpose and preliminary infor
 
 
 ### Interview Link
-- [UT Interview Guide](https://forms.gle/aNnvVoU529DZVF3M8)
+- [Usability Test Form](https://forms.gle/aNnvVoU529DZVF3M8)
+- - [Usability Test Form PDF](https://drive.google.com/file/d/1Zg9gVdYglpyN_ii2-rcCkQfel1PIbcbe/view?usp=sharing)
 
 ### Tasks: Purpose and Overview
 
