@@ -71,10 +71,9 @@ The Get Involved page and Events page are one of the top two pages that aim to e
 
 ### Study Components: Purpose and Overview
 | Webpage Image | Questions | Purpose |
-|---|---|---|---|
-| Image of the "Volunteer" section at the top of the Get Involved page | - Question 1: What action was the webpage asking you to take? 
-- Question 2: What else do you remember from the webpage? | Hi |
-
+|---|---|---|
+| Image of the "Volunteer" section at the top of the Get Involved page | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Observe if CTA placement effectively encourages users to get involved through volunteering. |
+| Image of the Comment Section under the first event on the Events page | (1) What was this webpage about? (2) What else do you remember from the webpage? | Evaluate the comment section design and its impact on community engagement. | 
 
 
 ## Heuristic Evaluation
