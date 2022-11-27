@@ -59,8 +59,7 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 - Image of the Home Page
 - Image of the Donation Page
 - 2 recall questions about each image
-- [Test Link](https://app.usabilityhub.com/do/cbe17160e980/4d7d)
-- [Maze Collaboration Link](https://app.maze.co/join?code=367bf3fa56a2a2573f9784b3dd8292c187e141dfda9937) FOR TEAM ONLY
+- [Test Preview](https://app.usabilityhub.com/preview/cbe17160e980)
 (will input official link when ready to test)
 
 ### Study Components: Purpose and Overview
