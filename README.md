@@ -51,13 +51,13 @@ The user will recieve an introduction to the study purpose and preliminary infor
 
 
 ### 5-Second Test
-The purpose of this study is to evaluate the CTA placement and overall design of pages on the La Historia Museum website. Participants will be shown the Get Involved page and the Comment section on the Events page. After viewing each for five seconds, participants will be asked two questions about what they can remember. 
+The purpose of this study is to observe users' first impressions of the website's key pages. Participants will be shown the Home Page and the Donation page. After viewing each for five seconds, participants will be asked two questions about what they can remember.
 
-The Get Involved page and Events page are one of the top two pages that aim to engage the community. Data from this study will help better understand how successful this engagement is.
+The Home Page and Donation Page are important pages that aim to engage the community. Data from this study will provide information about the perceived engagement at first glance.
 
 ### Materials
-- Image of the "Volunteer" section at the top of the Get Involved page
-- Image of the Comment Section under the first event on the Events page
+- Image of the Home Page
+- Image of the Donation Page
 - 2 recall questions about each image
 - [Maze Collaboration Link](https://app.maze.co/join?code=367bf3fa56a2a2573f9784b3dd8292c187e141dfda9937) FOR TEAM ONLY
 (will input official link when ready to test)
@@ -65,8 +65,8 @@ The Get Involved page and Events page are one of the top two pages that aim to e
 ### Study Components: Purpose and Overview
 | Webpage Image | Questions | Purpose |
 |---|---|---|
-| Volunteer section image | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Observe if CTA placement effectively encourages users to get involved through volunteering. |
-| Comment section image | (1) What was this webpage about? (2) What else do you remember from the webpage? | Evaluate the comment section design and its impact on community engagement. | 
+| Home Page | (1) What was this webpage about? (2) What else do you remember from the webpage? | Observe users' first impression of the start page. At first glance, does the museum effectively engage users with its identity and purpose? |
+| Donation Page | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Evaluate the museum's ability to engage users through website pages. Donations are an important way for users to connect with and contribute to the museum. | 
 
 
 ## Heuristic Evaluation
