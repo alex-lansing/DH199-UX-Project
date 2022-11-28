@@ -34,10 +34,6 @@ Google Form:
 - Post-Task Questionnaire
 - SUS Questionnaire
 
-### Material Links
-- [Usability Test Form](https://forms.gle/aNnvVoU529DZVF3M8)
-- [Usability Test PDF](https://drive.google.com/file/d/1Zg9gVdYglpyN_ii2-rcCkQfel1PIbcbe/view?usp=sharing)
-
 ### Study Tasks: Purpose and Overview
 
 | Scenario | Tasks | Purpose |
@@ -46,6 +42,10 @@ Google Form:
 | Suppose you'd like to attend a community event. You want more information on museum and community events. | (1) Find the most recent El Monte event (2) Find out what day the event takes place | Evaluate the Events page and its impact on community engagement. |
 | Suppose you found old photos of the El Monte community. You'd like to contribute photos to one of La Historia Museum's projects. | (1) Navigate to the Women of El Monte project (2) Open the form to add photos to the collection | Observe if users are able to efficiently and effectively contribute to the museum. |
 
+### Links
+- [Usability Test Form](https://forms.gle/oJtx6ybHReeYHVxs5)
+- [Usability Test PDF](https://drive.google.com/file/d/15Y3lvrIHzGsj8YwD1z-_ZcWJCUsVKr2j/view?usp=sharing)
+- [Preview Lookback Tasks](https://participate.lookback.io/LDbPjQ?preview)
 
 
 ### 5-Second Test
