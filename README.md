@@ -29,12 +29,9 @@ The user will recieve an introduction to the study purpose and preliminary infor
 - Introduction
 - Informed Consent Form
 - Background Questions
-- Pre-Test Questionnaire
-- Tasks (3)
+- Tasks (Conducted via Lookback)
 - Post-Test Questionnaire
 - SUS Questionnaire
-- Production Satisfaction Card
-- Demographic Questions
 
 
 ### Material Links
@@ -42,12 +39,14 @@ The user will recieve an introduction to the study purpose and preliminary infor
 - [Usability Test PDF](https://drive.google.com/file/d/1Zg9gVdYglpyN_ii2-rcCkQfel1PIbcbe/view?usp=sharing)
 
 ### Study Tasks: Purpose and Overview
+The Usability Tasks will be conducted via Lookback. This platform will guide participants through tasks and record participant actions as they use the website. Participants will have the option to turn off their camera, but their voice and screen will be recorded.
 
-| Task | Description | Purpose |
+| Scenario | Tasks | Purpose |
 |---|---|---|
-| 1. Navigate the Projects Pages | User must navigate to the "Project" page for an overview of all three projects. Then user must locate the "My First Car" Project and identify where to submit photos to the collection. | Observe user's efficiency/ease in navigating through the menu and identifying buttons. |
-| 2. Locate the page with contact information. | User must go through the menu under "About Us" to locate the "Contact Us" page. | Measure the clarity of the "Contact Us" page location. |
-| 3. Read Comments on La Historia Museum's latest event. | User must locate and visit the "Events" main page. Then they must navigate to the comment section of the latest event. | Observe ease in which user can engage with the community. |
+| Suppose you want to visit La Historia Museum next weekend. You would like information on the museum's location and hours. | (1) Find the museum address (2) Find out when they are open on weekends | Observe ease in which users can plan in-person engagement with the museum. |
+| Suppose you'd like to attend a community event. You want more information on museum and community events. | (1) Find the most recent El Monte event (2) Find out what day the event takes place | Evaluate the Events page and its impact on community engagement. |
+| Suppose you found old photos of the El Monte community. You'd like to contribute photos to one of La Historia Museum's projects. | (1) Navigate to the Women of El Monte project (2) Open the form to add photos to the collection | Observe if users are able to efficiently and effectively contribute to the museum. |
+
 
 
 ### 5-Second Test
