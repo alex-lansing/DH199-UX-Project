@@ -26,7 +26,6 @@ This is an unmoderated, remote usability test. It will be conducted via Google F
 Google Forms will present an introduction, informed consent form, and background questions to the user. Then it will direct the user to a Lookback link. Lookback will present three tasks to the user. This platform will guide participants through the tasks and record participant actions as they use the website. Participants will have the option to turn off their camera, but their voice and screen will be recorded. After completing the tasks, the user will be prompted to close out and return to the Google Form. The form will present a post-task questionnaire, and conclude with SUS questionnaire. 
 
 ### Materials
-Google Form:
 - Introduction
 - Informed Consent Form
 - Background Questions
@@ -48,7 +47,7 @@ Google Form:
 - [Preview Lookback Tasks](https://participate.lookback.io/LDbPjQ?preview)
 
 
-### 5-Second Test
+## 5-Second Test
 The purpose of this study is to observe users' first impressions of the website's key pages. Participants will be shown the Home Page and the Donation page. After viewing each for five seconds, participants will be asked two questions about what they can remember.
 
 The Home Page and Donation Page are important pages that aim to engage the community. Data from this study will provide information about the perceived engagement at first glance.
