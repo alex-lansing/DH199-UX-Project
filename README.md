@@ -21,25 +21,24 @@ The data from each test will be analyzed to identify improvements for the design
 
 
 ### Usability Test
-This is a moderated, remote usability test. I, the moderator, will connect with the participant via Zoom to conduct the experiment. I will be using a Macbook Air laptop to present the survey, capture participant actions, and record participants' comments. The study will be recorded via Zoom. 
+This is an unmoderated, remote usability test. It will be conducted via Google Forms and Lookback. 
 
-The user will recieve an introduction to the study purpose and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
+Google Forms will present an introduction, informed consent form, and background questions to the user. Then it will direct the user to a Lookback link. Lookback will present three tasks to the user. This platform will guide participants through the tasks and record participant actions as they use the website. Participants will have the option to turn off their camera, but their voice and screen will be recorded. After completing the tasks, the user will be prompted to close out and return to the Google Form. The form will present a post-task questionnaire, and conclude with SUS questionnaire. 
 
 ### Materials
+Google Form:
 - Introduction
 - Informed Consent Form
 - Background Questions
 - Tasks (Conducted via Lookback)
-- Post-Test Questionnaire
+- Post-Task Questionnaire
 - SUS Questionnaire
-
 
 ### Material Links
 - [Usability Test Form](https://forms.gle/aNnvVoU529DZVF3M8)
 - [Usability Test PDF](https://drive.google.com/file/d/1Zg9gVdYglpyN_ii2-rcCkQfel1PIbcbe/view?usp=sharing)
 
 ### Study Tasks: Purpose and Overview
-The Usability Tasks will be conducted via Lookback. This platform will guide participants through tasks and record participant actions as they use the website. Participants will have the option to turn off their camera, but their voice and screen will be recorded.
 
 | Scenario | Tasks | Purpose |
 |---|---|---|
