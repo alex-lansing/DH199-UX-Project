@@ -1,5 +1,17 @@
 # DH199 Directed Research in Digital Humanities
 
+## Background
+Nonprofits provide invaluable contributions to art, culture, public well-being, and human health while suffering from underfunding and employee burnout. For instance, despite employing 10% of U.S. workers, turnover in the nonprofit sector is higher than the industry average, with 45% of surveyed employees indicating that they would look for new jobs within the next five years. Thus, it is important that other institutions—such as universities, government, and the private sector—collaborate with nonprofit organizations to provide potential resources while still centering the nonprofit’s staff, mission, and the people they serve. 
+
+The Los Angeles area is home to many arts and culture organizations ranging in size, from the Getty Center to smaller, community-based non-profits like the Crenshaw Dairy Mart. One example is the La Historia Museum, a history nonprofit and community archive located in El Monte, California. This proposed HUE project is a collaboration with La Historia that will implement new features onto the current website to improve its usability, both from a visitor’s and staff’s perspective. This project centers on the following ideas:
+
+- An organization’s digital presence—via websites and social media—affects how it interacts with the community (and how the community interacts with it).
+- An organization’s website should engage the community it serves through intuitive design and accessibility.
+- Keeping turnover in mind, a website should be easy to manage and update from the perspective of the staff.
+
+Given these ideas, the ultimate goal of the design is to add features to the website that build a connection between the museum and its visitors, donors, and staff. The target audience for this project would be community members in the El Monte area, who may range in age from middle/high school students to older residents. Since visitors may have varying familiarity with technology, accessibility is a central tenet of the proposed project.
+
+
 ## Research Question
 La Historia Museum aims to connect with its community by engaging with visitors, donors, and staff. How can we enhance this engagement through an online experience that is usable, accessible, and representative of the organization?
 
@@ -17,19 +29,52 @@ The target user includes individuals located in or near El Monte, California. Ta
 
 The data from each test will be analyzed to identify improvements for the design of the user experience. From my findings I hope to understand how digital experiences can enhance the connection between the user and an organization. What encourages users to engage, to get involved? Further, I aim to identify effective design solutions from this research and demonstrate them in an illustrative prototype.
 
+## Heuristic Evaluation
+
+### 10 Usability Heuristics
+Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze La Historia Museum's [current website](https://www.lahistoriamuseum.org).
+
+### Severity Ratings
+Severity Ratings are used to identify the most vital problems of a design. These ratings help evaluate products in terms of their usability and design. Sevarity ratings for the La Historia Museum website will be measured on a scale of 0-3:
+
+| Rating | Description |
+|---|---|
+| 0 | No usability problem at all |
+| 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
+| 2 | Minor Usability Problem: fixing this should be given low priority |
+| 3 | Major Usability Problem: important to fix, so should be given high priority |
+
+### Heuristic Evaluation
+| Heuristic | Evaluation | Severity Rating | Improvement |
+|---|---|---|---|
+| Visibility of System Status | Users are unable to view what page they are on in the website. Page location shows in bold when users click to view the navigation bar. But some pages do not show in bold. | 2. Edits needed in navigation bar. | Highlight user's current page in navigation bar. Unhide menu; create navigation bar that is visible on all pages. |
+| Match Between System and the Real World | Familiar language, icons, and footer. Slightly inconsistent navigation bar. Nav bar dropdown list is horizontal, which is inconsistent with typical menu dropdowns. | 1. Cosmetic changes needed for nav bar dropdown. | Make the dropdown list vertical. |
+| User Control and Freedom | Once user visits a sub-page (from nav drop-down), the nav bar does not highlight the main page of the sub page (i.e. About Us, Projects, etc). This makes it difficult for users to go back to the corresponding main page. | 2. Edits needed in navigation bar. | Highlight user's current sub-page and main page so they are able to go back freely. |
+| Consistency and Standards | Flat rectangular buttons are slightly inconsistent with other website buttons. They do not appear as clickable until user hovers over the button. | 1. Cosmetic changes needed for buttons. | Add dimension or other design to buttons. |
+| Error Prevention | Errors are sufficiently prevented. All hyperlinks open in a new tab. "Contact Us" email ensures a proper email is entered. | 0. Satisfactory error prevention. | Satisfactory error prevention. |
+| Recognition Rather Than Recall | Users are provided with relatively clear options via buttons and the menu. | 1. Cosmetic changes to nav bar and buttons. | Cosmetic design changes needed to clarify user navigation. |
+| Flexibility and Efficiency of Use | Users have the flexibility to navigate through each page of the site via the menu. Site lacks further accessibility support. | 1. Cosmetic changes to menu. Further accessibility options needed for overall site. | Potentially unhide menu items to make them more easy to access. Provide further accessibility options. |
+| Aesthetic and Minimalist Design | "In Memoriam" page: placement of images and names creates a confusing layout for the user. Sub-header text does not stand out well against paragraph text. | 2. Changes needed in layout and aesthetics. | Ensure paragraph text and headers have proper weight and sizing. Create a new layout for text and images on each page. |
+| Help Users Recognize, Diagnose, and Recover From Errors | When user enters an invalid email in the Contact Us section, the site does not provide a clear error message. Only states "please correct the highlighted fields". | 1. Text edit needed in error message for invalid email. | Make error message more clear. (i.e. Please enter a valid email) |
+| Help and Documentation | Website lacks instructions that are accessible and understandable for users who need more help. | 2. Need further help and documentation. | Include help pop-ups or information icons that provide further details for users who need more assistance. |
+
+### Summary of Findings
+The La Historia Museum website has notable cosmetic problems. The most urgent edits needed include changes to the navigation menu. The current menu design is slightly inconsistent with other websites. Further, the menu does not properly display user's page location. Other edits are needed to improve the website layout and aesthetics. Help and documentation should also be added to make the site more accessible to a wider range of users.
+
 
 ## Usability Test
 This is an unmoderated, remote usability test. It will be conducted via Google Forms and Lookback. 
 
-Google Forms will present an introduction, informed consent form, and background questions to the user. Then it will direct the user to a Lookback link. Lookback will present three tasks to the user. This platform will guide participants through the tasks and record participant actions as they use the website. Participants will have the option to turn off their camera, but their voice and screen will be recorded. After completing the tasks, the user will be prompted to close out and return to the Google Form. The form will present a post-task questionnaire, and conclude with SUS questionnaire. 
+Google Forms will present an introduction, background questions, and pre-task questions to the user. Then it will direct the user to a Lookback link. Lookback will present three tasks to the user. This platform will guide participants through the tasks and record participant actions as they use the website. Participants' voice and screen will be recorded, no camera. After completing the tasks, the user will be prompted to close out and return to the Google Form. The form will then present a post-task questionnaire, SUS questionnaire, and conclude with demographic questions.
 
 ### Materials
 - Introduction
-- Informed Consent Form
+- Background Questions
 - Pre-Task Questionnaire
 - Tasks (Conducted via Lookback)
 - Post-Task Questionnaire
 - SUS Questionnaire
+- Demographic Questions
 
 ### Study Tasks: Purpose and Overview
 
