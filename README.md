@@ -32,7 +32,7 @@ The data from each test will be analyzed to identify improvements for the design
 ## Heuristic Evaluation
 
 ### 10 Usability Heuristics
-Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze La Historia Museum's [current website](https://www.lahistoriamuseum.org).
+Heuristic evaluation is a method that helps creators identify usability problens in a product design. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide criteria for user-friendly experiences, thus helping designers identify potential problems in a design and directing the overall design process. This evaluation will analyze the usabililty La Historia Museum's [current website](https://www.lahistoriamuseum.org). Findings will help identify potential pain points and serve as a basis for tasks in our Usability Testing.
 
 ### Severity Ratings
 Severity Ratings are used to identify the most vital problems of a design. These ratings help evaluate products in terms of their usability and design. Sevarity ratings for the La Historia Museum website will be measured on a scale of 0-3:
@@ -63,6 +63,11 @@ The La Historia Museum website has notable cosmetic problems. The most urgent ed
 
 
 ## Usability Test
+
+Results from the Heuristic Evaluation demonstrated that design changes are needed to improve user navigation.
+
+### Methods
+
 This is an unmoderated, remote usability test. It will be conducted via Google Forms and Lookback. 
 
 Google Forms will present an introduction, background questions, and pre-task questions to the user. Then it will direct the user to a Lookback link. Lookback will present three tasks to the user. This platform will guide participants through the tasks and record participant actions as they use the website. Participants' voice and screen will be recorded, no camera. After completing the tasks, the user will be prompted to close out and return to the Google Form. The form will then present a post-task questionnaire, SUS questionnaire, and conclude with demographic questions.
