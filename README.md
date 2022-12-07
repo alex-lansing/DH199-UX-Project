@@ -96,7 +96,7 @@ Google Forms will present an introduction, background questions, and pre-task qu
 
 
 ## 5-Second Test
-The purpose of this study is to observe users' first impressions of the website's key pages. Participants will be shown the Home Page and the Donation page. After viewing each for five seconds, participants will be asked two questions about what they can remember.
+In addition to the Usability Test, we will conduct a 5-Second Test to observe users' first impressions of the website's key pages. Participants will be shown the Home Page and the Donation page. After viewing each for five seconds, participants will be asked two questions about what they can remember.
 
 The Home Page and Donation Page are important pages that aim to engage the community. Data from this study will provide information about the perceived engagement at first glance.
 
@@ -112,3 +112,6 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 |---|---|---|
 | Home Page | (1) What was this webpage about? (2) What else do you remember from the webpage? | Observe users' first impression of the start page. At first glance, does the museum effectively engage users with its identity and purpose? |
 | Donation Page | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Evaluate the museum's ability to engage users through website pages. Donations are an important way for users to connect with and contribute to the museum. | 
+
+## Analysis
+
