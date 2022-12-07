@@ -1,6 +1,6 @@
 # DH199 Directed Research in Digital Humanities
 
-## Background
+## Introduction
 Nonprofits provide invaluable contributions to art, culture, public well-being, and human health while suffering from underfunding and employee burnout. For instance, despite employing 10% of U.S. workers, turnover in the nonprofit sector is higher than the industry average, with 45% of surveyed employees indicating that they would look for new jobs within the next five years. Thus, it is important that other institutions—such as universities, government, and the private sector—collaborate with nonprofit organizations to provide potential resources while still centering the nonprofit’s staff, mission, and the people they serve. 
 
 The Los Angeles area is home to many arts and culture organizations ranging in size, from the Getty Center to smaller, community-based non-profits like the Crenshaw Dairy Mart. One example is the La Historia Museum, a history nonprofit and community archive located in El Monte, California. This proposed HUE project is a collaboration with La Historia that will implement new features onto the current website to improve its usability, both from a visitor’s and staff’s perspective. This project centers on the following ideas:
@@ -64,7 +64,7 @@ The La Historia Museum website has notable cosmetic problems. The most urgent ed
 
 ## Usability Test
 
-Results from the Heuristic Evaluation demonstrated that design changes are needed to improve user navigation.
+Results from the Heuristic Evaluation demonstrated that design changes are needed to improve user navigation. Urgent edits appear to be needed in the menu design and functionality. These findings served as guidance for our usability test tasks. From the usability test, we hope to identify pain points as real users navigate through the site. The tasks will help evaluate how easily users can utilize the website to engage and connect with La Historia Museum.
 
 ### Methods
 
@@ -90,7 +90,7 @@ Google Forms will present an introduction, background questions, and pre-task qu
 | Suppose you found old photos of the El Monte community. You'd like to contribute photos to one of La Historia Museum's projects. | (1) Navigate to the Women of El Monte project (2) Open the form to add photos to the collection | Observe if users are able to efficiently and effectively contribute to the museum. |
 
 ### Links
-- [Usability Test Form](https://forms.gle/oJtx6ybHReeYHVxs5)
+- [Usability Test Form](https://forms.gle/Rtp5h1AzSBGWLuxK6)
 - [Usability Test PDF](https://drive.google.com/file/d/15Y3lvrIHzGsj8YwD1z-_ZcWJCUsVKr2j/view?usp=sharing)
 - [Preview Lookback Tasks](https://participate.lookback.io/LDbPjQ?preview)
 
