@@ -99,9 +99,10 @@ Google Forms will present an introduction, background questions, and pre-task qu
 #### Participant 1
 |   | Task 1 | Task 2 | Task 3 |
 |---|---|---|---|
-| Task Success | Yes | Yes | Yes |
+| Task Completion | Completed | Completed | Completed |
 | Time on Task | 1:39 | 4:05 | 2:12 |
-| 
+| SUS Score |  |  |  |
+| Other observations |  |  |  |
 
 
 
