@@ -97,7 +97,11 @@ Google Forms will present an introduction, background questions, and pre-task qu
 ### Results
 
 #### Participant 1
-| Time on Task | 
+|   | Task 1 | Task 2 | Task 3 |
+|---|---|---|---|
+| Task Success | Yes | Yes | Yes |
+| Time on Task | 1:39 | 4:05 | 2:12 |
+| 
 
 
 
