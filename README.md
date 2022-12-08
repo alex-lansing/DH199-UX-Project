@@ -143,8 +143,10 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 | Donation Page | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Evaluate the museum's ability to engage users through website pages. Donations are an important way for users to connect with and contribute to the museum. | 
 
 ### Results
-![image](https://user-images.githubusercontent.com/61765607/206522031-6a3ac5d8-e83f-499c-a6df-8b8e92cacca0.png)
-![image](https://user-images.githubusercontent.com/61765607/206522105-8d71ef6f-41d9-4506-816a-05542f06511a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61765607/206522031-6a3ac5d8-e83f-499c-a6df-8b8e92cacca0.png" height="350px"/>
+   <img src="https://user-images.githubusercontent.com/61765607/206522105-8d71ef6f-41d9-4506-816a-05542f06511a.png" height="350px"/>
+</p>
 
 
 - [UsabilityHub Results Page](https://app.usabilityhub.com/tests/cbe17160e980/results/6d3e5d49155d)
