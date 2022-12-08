@@ -29,6 +29,8 @@ The target user includes individuals located in or near El Monte, California. Ta
 
 The data from each test will be analyzed to identify improvements for the design of the user experience. From my findings I hope to understand how digital experiences can enhance the connection between the user and an organization. What encourages users to engage, to get involved? Further, I aim to identify effective design solutions from this research and demonstrate them in an illustrative prototype.
 
+****
+
 ## Heuristic Evaluation
 
 ### 10 Usability Heuristics
@@ -61,6 +63,7 @@ Severity Ratings are used to identify the most vital problems of a design. These
 ### Summary of Findings
 The La Historia Museum website has notable cosmetic problems. The most urgent edits needed include changes to the navigation menu. The current menu design is slightly inconsistent with other websites. Further, the menu does not properly display user's page location. Other edits are needed to improve the website layout and aesthetics. Help and documentation should also be added to make the site more accessible to a wider range of users.
 
+****
 
 ## Usability Test
 
@@ -112,10 +115,6 @@ Google Forms will present an introduction, background questions, and pre-task qu
 | SUS Score |  |  |  |
 
 
-
-
-
-
 - [Participant 1 Tasks Recording](https://lookback.io/public/ha8GRT7uG4kCbxuaP)
 - [Participant 2 Tasks Recording](https://lookback.io/public/vbvF7D8zudfdfrjzT)
 
@@ -138,6 +137,10 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 |---|---|---|
 | Home Page | (1) What was this webpage about? (2) What else do you remember from the webpage? | Observe users' first impression of the start page. At first glance, does the museum effectively engage users with its identity and purpose? |
 | Donation Page | (1) What action was the webpage asking you to take? (2) What else do you remember from the webpage? | Evaluate the museum's ability to engage users through website pages. Donations are an important way for users to connect with and contribute to the museum. | 
+
+#### Results
+
+****
 
 ## Analysis
 
