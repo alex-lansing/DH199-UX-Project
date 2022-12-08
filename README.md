@@ -99,7 +99,7 @@ Google Forms will present an introduction, background questions, and pre-task qu
 
 ### Results
 
-Two participants completed the unmoderated usability test. Both participants live in Los Angeles county, and have close relatives who live in El Monte. The participants completed the study in a quiet room on a laptop/computer with a working microphone. They signed an informed consent form before receiving the Google Form study link via email. Participants were compensated $10 for their participation.
+Two participants completed the unmoderated usability test. Both participants live in Los Angeles county, and have close relatives who live in El Monte. Both also expressed interest in local history. The participants completed the study in a quiet room on a laptop/computer with a working microphone. They signed an informed consent form before receiving the Google Form study link via email. Participants were compensated $10 for their participation.
 
 Results and analyses are shown below.
 
