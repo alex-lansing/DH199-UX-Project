@@ -104,7 +104,9 @@ Google Forms will present an introduction, background questions, and pre-task qu
 |---|---|---|---|
 | Task Completion | Completed | Completed | Completed |
 | Time on Task | 1:39 | 4:05 | 2:12 |
+
 | SUS Score | 87.5 |
+|---|---|
 
 
 #### Participant 2
