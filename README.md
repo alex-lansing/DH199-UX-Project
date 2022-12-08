@@ -119,7 +119,7 @@ Google Forms will present an introduction, background questions, and pre-task qu
 - [Participant 1 Tasks Recording](https://lookback.io/public/ha8GRT7uG4kCbxuaP)
 - [Participant 2 Tasks Recording](https://lookback.io/public/vbvF7D8zudfdfrjzT)
 
-************************
+****
 
 ## 5-Second Test
 In addition to the Usability Test, we will conduct a 5-Second Test to observe users' first impressions of the website's key pages. Participants will be shown the Home Page and the Donation page. After viewing each for five seconds, participants will be asked two questions about what they can remember.
