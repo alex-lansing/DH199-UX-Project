@@ -144,8 +144,8 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 
 ### Results
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/206522031-6a3ac5d8-e83f-499c-a6df-8b8e92cacca0.png" height="250px", width="320px"/>
-   <img src="https://user-images.githubusercontent.com/61765607/206522105-8d71ef6f-41d9-4506-816a-05542f06511a.png" height="250px", width="320px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/206522031-6a3ac5d8-e83f-499c-a6df-8b8e92cacca0.png" height="250px", width="360px"/>
+   <img src="https://user-images.githubusercontent.com/61765607/206522105-8d71ef6f-41d9-4506-816a-05542f06511a.png" height="250px", width="360px"/>
 </p>
 
 
