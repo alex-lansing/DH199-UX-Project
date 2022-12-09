@@ -158,11 +158,11 @@ The Home Page and Donation Page are important pages that aim to engage the commu
 
 32 participants completed the 5-Second Test. Results can be seen in [UsabilityHub](https://app.usabilityhub.com/tests/cbe17160e980/results/6d3e5d49155d). From this test, I wanted to observe the first impressions of important museum-user engagement pages. Results from the Donation page showed that users had the proper impression of the page at first glance. Most users answered "make a donation" (or related response) for the "What action was the webpage asking you to take?" question. The response wordcloud can be seen below. 
 
-<p align="center">
+<div align="center">
   <p> Testing </p>
   <img src="https://user-images.githubusercontent.com/61765607/206522031-6a3ac5d8-e83f-499c-a6df-8b8e92cacca0.png" height="250px", width="360px"/>
    <img src="https://user-images.githubusercontent.com/61765607/206522105-8d71ef6f-41d9-4506-816a-05542f06511a.png" height="250px", width="360px"/>
-</p>
+</div>
 
 
 - [UsabilityHub Results Page](https://app.usabilityhub.com/tests/cbe17160e980/results/6d3e5d49155d)
