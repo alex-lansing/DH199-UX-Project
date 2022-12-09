@@ -112,6 +112,11 @@ Results and analyses are shown below.
 | SUS Score | 87.5 |
 |---|---|
 
+Participant 1 completed all tasks successfylly. However, he demonstrated difficulty with Task 2: finding events and event date. He took about four minutes to complete this task and almost gave up before completion. In this task, the participant kept looking for event information on the home page; it was not intuitive to him to go through the menu icon. He eventually found the menu icon (3:55) and made about 4 clicks before finding Events. During this, the participant noted "Oh, I didnt even see Events".
+
+In the Post-Task questionnaire, participant 1 reported that Task 2 took somewhat longer than expected. His SUS score was an 87.5. This score was lower because he rated "I would need another person's help to effectively use this website" as neutral.
+
+- [Participant 1 Tasks Recording](https://lookback.io/public/ha8GRT7uG4kCbxuaP)
 
 
 #### Participant 2
@@ -123,8 +128,10 @@ Results and analyses are shown below.
 | SUS Score | 92.5 |
 |---|---|
 
+Participant 2 completed all tasks successfully. He demonstrated little difficulty with each task, with an average of 25 seconds per task. However, for Task 3 (Open form to add photos to a project), the participant made about four extra unnecessary clicks before getting to the Women of El Monte project. He searched for projects first on the Home Page.
 
-- [Participant 1 Tasks Recording](https://lookback.io/public/ha8GRT7uG4kCbxuaP)
+In the Post-Task questionnaire, participant 2 reported each task was very easy to perform, was much shorter than expected, and is very likely to be performed. His SUS score was a 92.5. A noteable observation from the SUS form was that the participant indicated neutral for using the website frequently.
+
 - [Participant 2 Tasks Recording](https://lookback.io/public/vbvF7D8zudfdfrjzT)
 
 ****
